@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Moon with warm glow -->
+    <path
+        android:fillColor="#FFBF00"
+        android:pathData="M54,30C65.05,30 74,38.95 74,50C74,61.05 65.05,70 54,70C42.95,70 34,61.05 34,50C34,38.95 42.95,30 54,30Z"/>
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,35C61.73,35 68,41.27 68,49C68,56.73 61.73,63 54,63C46.27,63 40,56.73 40,49C40,41.27 46.27,35 54,35Z"/>
+    <!-- Stars -->
+    <path
+        android:fillColor="#FF8C42"
+        android:pathData="M30,40L32,42L30,44L28,42Z"/>
+    <path
+        android:fillColor="#FF8C42"
+        android:pathData="M75,35L77,37L75,39L73,37Z"/>
+    <path
+        android:fillColor="#FFBF00"
+        android:pathData="M65,75L67,77L65,79L63,77Z"/>
+</vector>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SleepEase</string>
+    <string name="breathing_title">4-7-8 Breathing</string>
+    <string name="relaxation_title">Muscle Relaxation</string>
+    <string name="visualization_title">Calming Visualization</string>
+    <string name="counting_title">Mindful Counting</string>
+</resources>
